@@ -14,10 +14,8 @@ Minhas áreas de interesse incluem análise de dados, gestões de operações e 
 ---
 
 ##📚 Aprendizado contínuo
-
-- **Power BI** – Senai (em andamento)
--**Excel Avançado** – Senai (2025)
--**Pacote Office Avançado** – CTI Educar (2019)
+-**Excel Avançado**
+-**Pacote Office Avançado*
 
   ---
   
