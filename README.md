@@ -28,5 +28,6 @@ Minhas áreas de interesse incluem análise de dados, gestões de operações e 
 
 ---
 📫 Vamos nos conectar? Me chama em: 
-LinkedIn (atualizando...)
+
+LinkedIn: https://www.linkedin.com/in/eloyse-andrade-b74568270/
 E-mail: andradeeloyse@gmail.com
