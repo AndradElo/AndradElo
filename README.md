@@ -1,6 +1,6 @@
 # Olá! Eu sou a Eloyse Andrade 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (2023 - 2025)
+🎓 Análise e Desenvolvimento de Sistemas
 🔍 Curiosa por dados, tecnologia e eficiência operacional
 🌱 Atualmente em desenvolvimento de projetos com foco em análise de dados e integração com o negócio
 
